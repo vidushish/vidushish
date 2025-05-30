@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Vidushi Sharma</h1>
 
 <p align="center">
-  💻 B.Tech CSE | 🌱 DSA Enthusiast | 🎨 Frontend Developer | 💡 Full-Stack Learner
+  💻 B.Tech CS | 🌱 DSA Enthusiast | 🎨 Frontend Developer | 💡 Full-Stack Learner
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 2nd-year B.Tech CSE student at KIET Group of Institutions (Batch 2023–2027)
+- 🎓 I'm a 2nd-year B.Tech CS student at KIET Group of Institutions (Batch 2023–2027)
 - 🧠 Passionate about **Data Structures & Algorithms** and **Web Development**
 - 🌍 Exploring backend and deployment using **Node.js**, **Express**, **MongoDB**, and **Render**
 
@@ -62,8 +62,10 @@
 
 ## 📬 Let's Connect
 
-- 📧 Mail: vidushi.sh31@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vidushi-sharma-8588aa2a7/ 
+- 📧 Mail: vidushi.sh31@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vidushi-sharma-8588aa2a7/  
+- 💻 LeetCode: https://leetcode.com/u/sharma_vidushi31/  
+- 🧠 Codeforces: https://codeforces.com/profile/sharma_vidushi31  
 - 🌐 Portfolio (Coming Soon!)
 
 ---
