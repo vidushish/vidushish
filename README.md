@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 2nd-year B.Tech CS student at KIET Group of Institutions (Batch 2023–2027)
+- 🎓 I'm a 3rd-year B.Tech CS student at KIET Group of Institutions (Batch 2023–2027)
 - 🧠 Passionate about **Data Structures & Algorithms** and **Web Development**
 - 🌍 Exploring backend and deployment using **Node.js**, **Express**, **MongoDB**, and **Render**
 
