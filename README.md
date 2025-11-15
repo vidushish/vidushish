@@ -63,7 +63,7 @@
 ## 📬 Let's Connect
 
 - 📧 Mail: vidushi.sh31@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vidushi-sharma-8588aa2a7/  
+- 💼 LinkedIn: https://www.linkedin.com/in/vidushi-sharma12/  
 - 💻 LeetCode: https://leetcode.com/u/sharma_vidushi31/  
 - 🧠 Codeforces: https://codeforces.com/profile/sharma_vidushi31  
 - 🌐 Portfolio (Coming Soon!)
