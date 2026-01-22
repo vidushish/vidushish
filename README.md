@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 3rd-year B.Tech CS student at KIET Group of Institutions (Batch 2023–2027)
+- 🎓 I'm a 3rd-year B.Tech Computer Science student at KIET Group of Institutions, Ghaziabad (Batch 2023–2027)
 - 🧠 Passionate about **Data Structures & Algorithms** and **Web Development**
 - 🌍 Exploring backend and deployment using **Node.js**, **Express**, **MongoDB**, and **Render**
 
@@ -52,11 +52,11 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- ✅ Improve DSA and competitive programming skills
-- 🚀 Build more full-stack projects with real-world impact
-- 🌐 Contribute to open-source projects
+- 🧠 Master core DSA concepts and improve performance on LeetCode, CodeChef, and Codeforces
+- 💼 Prepare for internships and placements through projects and mock interviews
+- 🚀 Build impactful full-stack applications with clean UI and backend logic
 
 ---
 
@@ -64,7 +64,8 @@
 
 - 📧 Mail: vidushi.sh31@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/vidushi-sharma12/  
-- 💻 LeetCode: https://leetcode.com/u/sharma_vidushi31/  
+- 💻 LeetCode: https://leetcode.com/u/sharma_vidushi31/
+- 🍴 CodeChef: https://www.codechef.com/users/vidushish12   
 - 🧠 Codeforces: https://codeforces.com/profile/sharma_vidushi31  
 - 🌐 Portfolio (Coming Soon!)
 
