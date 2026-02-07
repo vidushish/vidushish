@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 3rd-year B.Tech Computer Science student at KIET Group of Institutions, Ghaziabad (Batch 2023–2027)
+- 🎓 I am a 3rd-year B.Tech Computer Science student at KIET Group of Institutions, Ghaziabad (Batch 2023–2027)
 - 🧠 Passionate about **Data Structures & Algorithms** and **Web Development**
 - 🌍 Exploring backend and deployment using **Node.js**, **Express**, **MongoDB**, and **Render**
 
@@ -67,7 +67,7 @@
 - 💻 LeetCode: https://leetcode.com/u/sharma_vidushi31/
 - 🍴 CodeChef: https://www.codechef.com/users/vidushish12   
 - 🧠 Codeforces: https://codeforces.com/profile/sharma_vidushi31  
-- 🌐 Portfolio (Coming Soon!)
+- 🌐 Portfolio: https://vidushi-sharma-portfolio.vercel.app/
 
 ---
 
